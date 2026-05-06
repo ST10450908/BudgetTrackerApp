@@ -70,12 +70,6 @@ GitHub Actions can be used to:
  Watch the demo here:
 
 (https://youtu.be/6JOKromkC5c?si=zIbdz8VJ64ExrMM7)
----
-
-##  APK Download
-
-📥 Download the APK here:
-[Upload APK to GitHub and paste link]
 
 ---
 
